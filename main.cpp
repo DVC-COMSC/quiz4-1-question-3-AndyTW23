@@ -24,7 +24,8 @@ int main() {
   int min, max, other;
   
   cin >> num1 >> num2 >> num3;
-
+ 
+ 
   if (num1 > num2)
   {
     if ( num2 < num3)
